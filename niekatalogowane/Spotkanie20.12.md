@@ -20,7 +20,13 @@ Krytyczne punkty koncepcyjne kluczowe do poruszenia na spotkaniu:
  5. Wpomnienie o feedbacku od uczniów (ankieta)
 
 Po przedstawieniu pomysłu i feedbacku dotyczącego projektu zadamy również pytania dotyczące samego konkursu.
- 1. Wzbogacenie strony jako materiału do zgłoszenia
+ 1. Czy wzbogacać strony jako materiały do zgłoszenia
+ 2. Przebieg konkursu i istota zgłoszenia w konkursie
+ 3. Opinia o projekcie i pomysły na zmiany
+ 4. Czy są sposoby na usprawnienie projektu
+ 5. Jak wdrożyć taki produkt na rynek?
+ 6. Czy i jak korzystaliby państwo jako nauczyciele z projektu
+ 7. Czy jako nauczyciele widzą zastosowanie dla swoich uczniów
 
  > **⚠ Do uzupełnienia w zgodzie z resztą**
 
@@ -28,17 +34,19 @@ Po przedstawieniu pomysłu i feedbacku dotyczącego projektu zadamy również py
 **Problem w ujęciu ogólnym:** polska edukacja w większości przypadków nie wykorzystuje pełnego potencjału nauki i skupia się tylko na przygotowaniu uczniów do egzaminów końcowych. Nie skupiaja się ona na rozwijaniu myślenia i innych zdolności kognitywnych uczniów. Nie bierze pod uwagę odmienności uczniów i ich zróżnicowanego potencjału.
 
 **Szczegóły**:
- <!-- - Brak praktykowania uczenia wysokopoziomowego
+ - Brak praktykowania uczenia wysokopoziomowego
  - Zaniedbywanie rozumienia i praktykowanie zapamiętywania w procesie nauczania
  - Brak personalizacji edukacji
  - Korzystanie z książek mających na celu jedynie przygotowanie do egzaminów
  - Nieuświadamianie ucznia o jego dobrych i słabych stronach
+ - Szkoła "trzyma za rękę" i zaniedbuje samodzielne działania
+ - Nieefektywna nauka w szkołach przez szum organizacyjny (?)
  - Brak odpowiedniego stosowania nowoczesnych technik edukacyjnych tj.:
    - Taksonomia Blooma
    - Mastery learning
    - learner-centered education
    - education based on navigation
-   - active learning -->
+   - active learning
 
  > **⚠ Do uzupełnienia w zgodzie z resztą**
 
@@ -55,11 +63,13 @@ Po przedstawieniu pomysłu i feedbacku dotyczącego projektu zadamy również py
    - Dostosowywania zadań w stosunku do ucznia
    - Nawigowanie ucznia po programie nauczania
    - Uświadamiania go o jego silnych i mocnych stronach
-   - Dobierania zadań które najlepiej pasują do 
+   - Dobierania zadań które najlepiej pasują do profilu ucznia
 
 ### Implementacja rozwiązań
 
 Implementujemy nasze rozwiązania w obrębie Edutie - platformy e-learningowej dostosowanej do nowoczesnych realiów i potrzeb edukacji. 
+
+*Przedstawić co się udało zrobić*
 
 *Tu przedstawić designy z figma i/lub frontend aplikacji*
 
