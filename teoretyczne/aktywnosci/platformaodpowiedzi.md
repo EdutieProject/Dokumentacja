@@ -1,0 +1,3 @@
+* **Platforma odpowiedzi** – użytkując platformę użytkownicy mogą zadawać różnorakie pytania. Można założyć że te pytania będą adresowane albo do twórcy kursu, albo mogą być adresowane do społeczności. Przy zadaniu pytania użytkownik może otrzymać od każdego uzytkownika platform odpowiedzi. Gdy oznaczy daną odpowiedź jako poprawną to odpowiadający otrzymuje 1 punkt. Punkty te będzie mógł wydać na dostęp do specjalnych osiągnięć bądź dodatkowych funkcjonalności na platformie.
+
+:warning: **TODO**: Trzeba dodać przykładowy opis aktywności dla danego elementu. Czyli dla kursu opisać co zawiera w sobie itd.
