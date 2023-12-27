@@ -1,0 +1,1 @@
+* **Testy teoretyczne** – oznacza zbiór kilku pytań testowych mający weryfikować wiedzę uczestnika po wykonaniu części modułu. Na podstawie wyniku z takiego testu teoretycznego można dać uczestnikowi tzw. Token umożliwiający przejście do następnego modułu

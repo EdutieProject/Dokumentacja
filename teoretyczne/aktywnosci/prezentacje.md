@@ -1,0 +1,1 @@
+* **Prezentacje** – prezentacja oznacza pokazanie danej umiejętności za pomocą prezentacji Power Point lub innego programu do prezentacji. Prezentacja ma skupiąc się na graficznym pokazaniu informacji za pomocą obrazów, wykresów, schematów dostosowujących siędo konkretnej ściezki ELP.
