@@ -8,24 +8,6 @@ W zależności od tego czy uczeń dobrze rozwiązuje zadania sugeruje mu się od
 * Zgodność lekcji z najlepszymi praktykami – podejście “amerykańskie”
 * Forma przekazanych treści zgodna z ESP
 
-## Płytkie linki i budowanie lekcji
-* Celem płytkich linków jet przedstawienie tematu, który jest luźno powiązany z obecnie omawianym tematem.
-* Struktura drzewa, co oznacza, że omawiając temat X uczeń mógłby być odesłany do filmiku, który rozszerza daną dziedzinę.
-
-# Korepetycje
-* Jednorazowe rozwiązanie dla korepetycji w celu rozwiązania problem z przyswojeniem konkretnych zagadnień
-* Materiały przydzielone na podstawie ELP I ESP.
-:warning: Fajnie, tylko dla nauczenia się jednego konkretnego zagadnienia nikt nie będzie chciał uruchamiać testu weryfikującego jego sposób nauczania.
-
-# Kurs
-## Elementy i struktura kursu
-* Elementy główne kursu – zakładamy, że zależnie od wykazania w ścieżce ELP z czym najlepiej radzi sobie uczeń to tym więcej będzie otrzymywał tego rodzaju materiałów.
-Przykład. Jeśli uczeń w profilu ESP wykaże, że lepiej uczysię z filmów to w jego ELP do nauki częściej będą pojawiały się filmy, rzadziej treści.
-* Inne 
-:warning: Te treści zostały już gdzieś ujęte
-
-:note: Tutaj trzeba dopisać przykładowy kurs.
-
 # Lekcje
 * Mają wspomagać edukację szkolną, ale także umożliwiają wykorzystanie ich do samodzielnej nauki.
 * Programy nauczania oparte na drzewach. Wspomagana sztuczną inteligencją nawigacja po drzewie
@@ -41,6 +23,7 @@ Tu bedzie graf.
 Tu będzie graf.
 
 :warning: To poniższe trzeba jeszcze zedytować mocno.
+
 
 # Płytkie linki i budowanie lekcji
 Celem płytkich linków jest powiązanie powiązanego tematu, który nie jest uwzględniony w lekcji. Normalnie struktura tematów byłaby zbudowana jak drzewo – od podstaw do najbardziej zaawansowanych tematów. Każda lekcja również naśladowałaby tę strukturę – najpierw skup się na opisaniu podtematu i odbudowaniu wiedzy ucznia na jego temat, następnie zaprezentuj kilka ćwiczeń, a następnie rozwiń większe zrozumienie na podstawie początkowo zdobytej wiedzy. Celem płytkich linków jest uwzględnienie tego, co mogło zostać zapomniane z poprzednich lekcji. Są techniką powtórkową.

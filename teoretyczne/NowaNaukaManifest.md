@@ -8,9 +8,9 @@ Najbardziej utopijną wizją edukacji jest edukacja, która skupia się na otwie
 
 Warto również wspomnieć o celu samego przyswajania i **rozumienia** wiedzy. Ważne jest to, że proces uczenia się sam w sobie jest nauką - nauką myślenia w specyficzny sposób, nauką rozumienia i przetwarzania informacji i nauką *łączenia kropek*, czyli syntezy informacji.
 
-## Niesienie zmian
+## Zmiany
 
-Aby wprowadzić zmiany musimy zapomnieć o wszystkim co wiemy o dotychczasowym systemie. Spojrzeć na to w taki sposó, jakby trzeba było edukację zbudować od początku. W ten spobó dotrzemy do różnic, które uwłaczają skuteczności edukacji.
+Aby wprowadzić zmiany musimy zapomnieć o wszystkim co wiemy o dotychczasowym systemie. Spojrzeć na to w taki sposób, jakby trzeba było edukację zbudować od początku. W ten spobób dotrzemy do różnic, które uwłaczają skuteczności edukacji.
 
  ### Materiały do nauki
 
@@ -24,13 +24,17 @@ Na nauczycielach ciąży dużo obowiązków, których rzadko są w stanie dopeł
 - Motywowanie uczniów do nauki 
 - Wskazywanie im odpowiedniej dla ucznia ścieżki nauki, czyli praktyczne dostosowanie programu nauczania
 - Niesie indywidualnej pomocy dla uczniów w razie kłopotów z nauką
-- Ocena progresu ucznia i **niesienie feedbacku**
+- Ocena progresu ucznia i **niesienie informacji zwrotnej**
 - Wprowadzanie dobrych praktyk do procesu nauczania
 - *i pewnie jeszcze więcej*
 
 Dopełnianie tych obowiązków bez żadnych pomocy jest ciężkie.
 
-> Dobrą zmianą mogłoby być wsparcie nauczycieli dedykowanym dla nich softem który by pomagał im, a pośrednio również ich uczniom.
+> Dobrą zmianą mogłoby być wsparcie nauczycieli dedykowanym dla nich oprogramowaniem który by pomagał im, a pośrednio również ich uczniom.
+
+### Metodyki nauczania
+
+Coś o Taksonomii Bluma
 
 ### Sposób prowadzenia lekcji
 

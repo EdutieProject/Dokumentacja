@@ -1,12 +1,15 @@
 # Spis treści dokumentacji
-## Koncept:
- - [Nowa Nauka - manifest](koncept/NowaNaukaManifest.md)
- - [Stosowanie psychologii w edukacji](koncept/PsychologiaEdukacji.md)
- - [Personalizacja nauki w praktyce](koncept/PersonalizacjaNauki.md)
- - [*Pierwszy koncept* - archiwum](koncept/PierwszyKoncept.md)
+## Zagadnienia teoretyczne:
+ - [Nowa Nauka - manifest](teoretyczne/NowaNaukaManifest.md)
+ - [Stosowanie psychologii w edukacji](teoretyczne/PsychologiaEdukacji.md)
+ - [Personalizacja nauki w praktyce](teoretyczne/PersonalizacjaNauki.md)
+### Aktywności
+ - [Kursy](teoretyczne/aktywnosci/kursy.md)
+ - [Korepetycje](teoretyczne/aktywnosci/korepetycje.md)
+ - [Lekcje](teoretyczne/aktywnosci/lekcje.md)
 
-## Techniczne:
- - [Spis repozytoriów](techniczne/SpisRepozytoriów.md)
+## Zagadnienia techniczne:
+ - [Spis repozytoriów](SpisRepozytoriow.md)
  - [Domain driven design w naszych projektach](techniczne/DomainDrivenHowTo.md)
  - [Onion architecture i jej stosowanie](techniczne/OnionArchitectureHowTo.md)
 
@@ -23,4 +26,4 @@ Technikalia opisane w tym repozytorium dotyczą ogólnie stosowanych rozwiązań
 Pomysły na nowe projekty są mile widziane! Aby zgłosić swój pomysł opowiedz o nim któremuś z twórców albo prześlij Github Issue lub Pull Request
 
 # Rozszerzanie dokumentacji
-Jeśli uważasz że nie ma tu czegoś co powinno się tu znaleźć, zgłoś to poprzez nowy GitHub issue albo Pull Request. Tyczy się to zarówno wprowadzania nowych treści, rozszerzania już istniejących oraz aktualizowania przestarzałych informacji.
+Jeśli uważasz że nie ma tu czegoś co powinno się tu znaleźć, zgłoś to poprzez nowy GitHub issue. Tyczy się to zarówno wprowadzania nowych treści, rozszerzania już istniejących oraz aktualizowania przestarzałych informacji.
