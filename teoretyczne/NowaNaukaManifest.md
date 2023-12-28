@@ -1,3 +1,5 @@
+Ten plik zawiera przedstawienie idei Nowej Nauki. Ma za zadanie pokazać myśl przewodnią naszych aplikacji i rzeczy, które robimy.
+
 # Nowa Nauka
 
 Nowa Nauka ma na celu zmianę podejścia do nauki w młodych ludziach. Naszą misją jest sprawienie, aby uczenie się nie było bezrefleksyjnym zaczliczaniem egzaminów, po których od razu zapominamy czego się nauczyliśmy. Chcemy sprawić, aby możliwość uczenia się była postrzegana jako przywilej, a nie przykry obowiązek. Naszym targetem jest społeczność uczniowska, czyli młodzi dorośli/nastolatkowie. Według nowej nauki edukacja powinna przykładać szczególną uwagę do rozwoju i otwierania możliwości przed uczniami, ze względu na fakt, że są oni fundamentem przyszłości otaczającego nas świata.
