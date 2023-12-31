@@ -43,7 +43,7 @@ Struktura programu nauczania w Edutie jest podwójnie zagnieżdżonym drzewem, t
  1. Nauka
  2. Kurs
  3. Lekcje
- 4. Segmenty lekcji (zagadnienia)
+ 4. Segmenty lekcji
 
 **Nauka** funkcjonuje jako kategoria przypisywana każdemu kursowi. Może być to np. fizyka, matematyka czy chemia.
 
@@ -51,17 +51,24 @@ Struktura programu nauczania w Edutie jest podwójnie zagnieżdżonym drzewem, t
  
 **Lekcje** są poświęcone na zrozumienie pojedynczego zagadnienia z danego działu. Czas poświęcany na jedną lekcję powinien wynosić około **1 godziny**. Przykładem może być np. *Pierwsza zasada termodynamiki*
 
-**Segmenty lekcji** są elementarnymi zagadnieniami poruszanymi w ramach lekcji. Przykładem może być np. *Układ termodynamiczny* albo *Energia i ciepło w układzie termodynamicznym*
+**Segmenty lekcji** są elementarnymi zagadnieniami poruszanymi w ramach lekcji. Przykładem może być np. *Układ termodynamiczny* albo *Energia i ciepło w układzie termodynamicznym* Zawierają one zadania.
 
 Program nauczania zakłada, że uczeń powinien dobrze zrozumieć temat podrzędny zanim przejdzie do tematów nadrzędnych. Powodem jest to, że gdy uczeń z niepełnym rozumieniem tematu podrzędnego przystąpi do budowania wiedzy z tematów nadrzędnych, będzie on miał niepełne podstawy; może to skutkować złym zrozumieniem tematów nadrzędnych.
 
-#### Segmenty lekcji - zawartość
+## Segmenty lekcji
 
-Zawartością segmentów lekcji są zadania *(w kodzie aplikacji nazywane "learning resource")*. Każdy segment jest wprawdzie **listą zadań**. Uczeń aby *przejść* segment musi zaliczyć jedno z nich. Zadania zgrupowane za pomocą jednego segmentu lekcji mają tą samą tematykę oraz te same wymagania. Z założenia powinny one również dotyczyć tych samych zdolności kognitywnych. Każde zadanie jest również *optymalizowane* (patrz: [personalizacja](#personalizacja))
+Segment lekcji odpowiada za:
+ - Określenie czego będą dotyczyć materiały zebrane w tym segmencie
+ - Okreslenie jakie umiejętności są skorelowane z tematyką segmentu
+ - Określenie co uczeń powinien wynieść z danego segmentu
 
-## Materiały do nauki i ich personalizacja
+Segment jest zbiorem zadań dotyczących konkretnego tematu wymagającego danych umiejętności. Aby przejść z segmentu podrzędnego do nadrzędnego uczeń musi wykonać pewną ilość zadań segmentu podrzędnego z dostatecznie dobrą oceną. Można powiedzieć że segment jako zbiór zadań zbiera *propozycje sposobów* na naukę danego materiału. 
 
-> **⚠ TODO**: uporządkować: segmenty i zadania
+Ilość zadań wymaganych do przejścia ustalana jest odgórnie poprzez segment, po czym nakładana jest na tą ilość korekta poprzez ***profil ucznia***, aby zmniejszyć lub zwiększyć ilośc wymaganych zadań personalizując proces nauki.
+
+Każde zadanie jest również *optymalizowane* (patrz: [personalizacja](#personalizacja)). Personalizacja dotyczy zawarcia w treści lub opisie zadania wskazówek dobranych do danego profilu ucznia. Wskazówki mogą być wcielone w tekst lub przedstawione osobno jako dodatek do tekstu.
+
+## Materiały do nauki - zadania
 
 ### Zadania
 
@@ -75,8 +82,8 @@ Zadania są oparte o samodzielną pracę. W tworzeniu zadań wykorzystujemy sche
 
 #### Zawartość zadań
 
- - Opis: Zadania zawierają w sobie spersonalizowany opis zagadnienia którego dotyczą. Mogą być w nim zawarte przykłady i porównania, analogie etc. Ważne aby dobrze wyjaśniały temat.
- - Zadanie: Część zadania która zawiera problem który uczeń ma rozwiązać.
+ - Opis: Zadania zawierają w sobie spersonalizowany opis zagadnienia którego dotyczą i jego możliwego wykorzystania w zadaniu. Mogą być w nim zawarte przykłady i porównania, analogie etc. Ważne aby dobrze wyjaśniały temat.
+ - Zadanie - treść: Część zadania która zawiera problem który uczeń ma rozwiązać.
  - Flowchart (opcjonalnie): Schemat przedstawiający przykładowy sposób podejścia do zagadnienia
 
 > **⚠ TODO**: Lista możliwego dodatkowego kontentu dla zadań
