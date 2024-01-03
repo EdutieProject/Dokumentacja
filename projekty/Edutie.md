@@ -73,6 +73,8 @@ Gdzie *materiały do nauki* są zadaniami, znanymi również jako *Learning Reso
 
 Ilość zadań wymaganych do przejścia ustalana jest odgórnie poprzez segment (dla aktualnej wersji jest to domyślnie 1), po czym nakładana jest na tą ilość korekta poprzez ***profil ucznia***, aby zmniejszyć lub zwiększyć ilośc wymaganych zadań personalizując proces nauki.
 
+#### Personalizacja zadań
+
 Każde zadanie jest również *optymalizowane* (patrz: [personalizacja](#personalizacja)). Personalizacja dotyczy zawarcia w treści lub opisie zadania wskazówek dobranych do danego profilu ucznia. Wskazówki mogą być wcielone w tekst lub przedstawione osobno jako dodatek do tekstu.
 
 ## Materiały do nauki - zadania
@@ -134,20 +136,28 @@ Dla powyższych precyzujemy sposoby nawigacji:
 
 Zdatne do działania na poziomie segmentów, wskazywanie uczniowi dawno nieporuszanego tematu, na który potencjalnie może się natknąć w najbliższej nauce.
 
+> **⚠ TODO**: Rozszerzyć sposoby nawigacji
+
 ## Ocenianie i feedback
 
 Ocenianie i feedback są jednym z kluczowych elementów aplikacji. Jest to fragment odpowiedzialny za dostosowanie profilu nauczania po każdym wykonanym zadaniu oraz za zapewnienie uczniowi odpowiedniego feedbacku.
 
 Ocenianie jest niezależne od optymalizacji (personalizacji) zadań. Oceniając odnosimy się tylko do wymagań zawartych w segmencie i nie bierzemy pod uwagę optymalizacji.
 
-### Podejście technologiczne do oceniania
+### Ocenianie
 
-Ocenianie zadań możliwe jest poprzez wykorzystanie modeli językowych sztucznej inteligencji w celu analizy tekstu sprawozdania. W zautomatyzowanym procesie AI wystawia uczniowi oceny. Jednak aby skonstruować zautomatyzowany system oceniania potrzebne jest odtworzenie **flow** które towarzyszy nauczycielom, z którego następnie powstaje **algorytm**.
+Ocenianie zadań możliwe jest poprzez wykorzystanie modeli językowych sztucznej inteligencji w celu analizy tekstu sprawozdania. W zautomatyzowanym procesie AI wystawia uczniowi oceny. *Flow* oceniania sprawozdania bierze pod uwagę **spełnianie wymagań nauki** określonych przez segment. 
 
-> **⚠ TODO**: sprecyzować ocenianie
+Ocenianie jest niezależne od optymalizacji zadania - zakładamy że wynik powinien dotyczyć tylko spełnionych wymagań nauczania.
+
+Ocenianie działa poprzez wystawienie oceny w zakresie 1-10 określającej spełnienie każdego z **wymagań naukowych**
 
 ### Feedback
 
-Feedback jest generowany automatycznie przez AI. Jest on ściśle powiązany z ocenianiem - *dlatego narazie go nie ma.*
+Feedback jest odpowiedzią generowaną przez AI. Odpowiedź określa błędy w sposobie rozumowania oraz doprecyzowuje nieścisłości, aby uczeń przy następnym zadaniu mógł uzyskać lepszą ocenę. Zawiera ona otrzymane oceny dla segmentowych wamagań naukowych.
 
-> **⚠ TODO**: sprecyzować system feedbacku
+### Adaptacja profilu nauczania
+
+Poza ocenianiem wymagań oceniamy również wykorzystanie umiejętności określonych przez segment. Każda z umiejętności zawiera informacje o skorelowanych z nią rodzajach inteligencji. AI ocenia wykorzystanie umiejętności również w skali 1-10, po czym ocena ta jest przeliczana na wartości dotyczące rodzajów inteligencji. Te wartości później aplikowane są do profilu nauczania, który dostosowuje swoje parametry.
+
+> **⚠ TODO**: Określić sposób adaptacji (np. funkcją matematyczną)
