@@ -55,16 +55,23 @@ Struktura programu nauczania w Edutie jest podwójnie zagnieżdżonym drzewem, t
 
 Program nauczania zakłada, że uczeń powinien dobrze zrozumieć temat podrzędny zanim przejdzie do tematów nadrzędnych. Powodem jest to, że gdy uczeń z niepełnym rozumieniem tematu podrzędnego przystąpi do budowania wiedzy z tematów nadrzędnych, będzie on miał niepełne podstawy; może to skutkować złym zrozumieniem tematów nadrzędnych.
 
-## Segmenty lekcji
+# Segmenty lekcji
+#### Czym jest?
+Segment jest zbiorem zadań dotyczących konkretnego tematu wymagającego danych umiejętności. Aby przejść z segmentu podrzędnego do nadrzędnego uczeń musi wykonać pewną ilość zadań segmentu podrzędnego z dostatecznie dobrą oceną. Można powiedzieć że segment jako zbiór zadań zawiera *propozycje sposobów* na naukę danego materiału. 
 
-Segment lekcji odpowiada za:
- - Określenie czego będą dotyczyć materiały zebrane w tym segmencie
- - Okreslenie jakie umiejętności są skorelowane z tematyką segmentu
- - Określenie co uczeń powinien wynieść z danego segmentu
+#### Za co odpowiada?
+Segment lekcji określa:
+ - **Tematykę** - czyli czego będą dotyczyć materiały zebrane w tym segmencie
+ - **Umiejętności** - czyli jakie umiejętności są skorelowane z tematyką segmentu
+ - **Wymagania** - czyli co uczeń powinien wynieść z danego segmentu
 
-Segment jest zbiorem zadań dotyczących konkretnego tematu wymagającego danych umiejętności. Aby przejść z segmentu podrzędnego do nadrzędnego uczeń musi wykonać pewną ilość zadań segmentu podrzędnego z dostatecznie dobrą oceną. Można powiedzieć że segment jako zbiór zadań zbiera *propozycje sposobów* na naukę danego materiału. 
+Segment lekcji zawiera informacje związane ze specyfiką materiału, które następnie są wykorzystywane w tworzeniu materiałów do nauki. Możnaby przedstawić proces w ten sposób:
+```
+   Segment lekcji + Profil nauczania = Materiały do nauki
+```
+Gdzie *materiały do nauki* są zadaniami, znanymi również jako *Learning Resource*.
 
-Ilość zadań wymaganych do przejścia ustalana jest odgórnie poprzez segment, po czym nakładana jest na tą ilość korekta poprzez ***profil ucznia***, aby zmniejszyć lub zwiększyć ilośc wymaganych zadań personalizując proces nauki.
+Ilość zadań wymaganych do przejścia ustalana jest odgórnie poprzez segment (dla aktualnej wersji jest to domyślnie 1), po czym nakładana jest na tą ilość korekta poprzez ***profil ucznia***, aby zmniejszyć lub zwiększyć ilośc wymaganych zadań personalizując proces nauki.
 
 Każde zadanie jest również *optymalizowane* (patrz: [personalizacja](#personalizacja)). Personalizacja dotyczy zawarcia w treści lub opisie zadania wskazówek dobranych do danego profilu ucznia. Wskazówki mogą być wcielone w tekst lub przedstawione osobno jako dodatek do tekstu.
 
