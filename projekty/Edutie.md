@@ -95,7 +95,7 @@ Zadania są oparte o samodzielną pracę. W tworzeniu zadań wykorzystujemy sche
  - Zadanie - treść: Część zadania która zawiera problem który uczeń ma rozwiązać.
  - Flowchart (opcjonalnie): Schemat przedstawiający przykładowy sposób podejścia do zagadnienia
 
-> **⚠ TODO**: Lista możliwego dodatkowego kontentu dla zadań
+Dodatkowa zawartość może być rozszerzana.
 
 #### Rozwiązywanie zadań
 
@@ -130,7 +130,11 @@ Dla powyższych precyzujemy sposoby nawigacji:
 
  - Wskazywanie wyzwań
 
- Zdatne do działania na poziomie zadań, wskazuje zadania które nie są do końca dopasowane do parametrów nauczania ucznia lub zadania których tematyka skorelowana jest ze słabymi wynikami ze strony ucznia.
+ Zdatne do działania na poziomie zadań, wskazuje zadania lub segmenty które nie są do końca dopasowane do parametrów nauczania ucznia lub zadania których tematyka skorelowana jest ze słabymi wynikami ze strony ucznia.
+
+ - Wskazywanie spadków
+
+ Działa na poziomie segmentów, wskazuje segmenty których umiejętności odnotowywyały wcześniej dobre wyniki dla ucznia, ale ostatnimi czasy zaczęło iść mu gorzej.
 
  - Sugerowanie powtórek
 
