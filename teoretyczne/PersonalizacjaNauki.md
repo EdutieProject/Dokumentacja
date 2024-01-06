@@ -1,3 +1,5 @@
+Ten plik zawiera informacje dotyczące personalizacji nauki, tego jakie znaczenie niesie ona w edukacji oraz jak możemy ją wykorzystać.
+
 # Personalizacja edukacji
 
 Według Nowej Nauki jednym z kluczowych aspektów edukacji jest indywidualne podejście do rozwoju ucznia. Wykorzystanie unikalności jednostki i szczególnych umiejętności ucznia nie tylko jest pomocne w nauce, ale także uświadamia ucznia o jego mocnych i słabych stronach. Dzięki temu uczeń staje się bardziej świadom swoich możliwości i predyspozycji. 
