@@ -1,22 +1,30 @@
 # Kurs
-## Elementy i struktura kursu
-* Elementy główne kursu – zakładamy, że zależnie od wykazania w ścieżce ELP z czym najlepiej radzi sobie uczeń to tym więcej będzie otrzymywał tego rodzaju materiałów.
-Przykład. Jeśli uczeń w profilu ESP wykaże, że lepiej uczysię z filmów to w jego ELP do nauki częściej będą pojawiały się filmy, rzadziej treści.
-* Inne 
-:warning: Te treści zostały już gdzieś ujęte
+Kurs składa się z wielu różnych elementów. Może zawierać elementy grywalizacyjne, filmy, eseje i inne źródła.
 
-:note: Tutaj trzeba dopisać przykładowy kurs.
+## Metodologia
+Metodologia tworzenia kursu polega na podejściu "amerykańskim". Chodzi o to, że w pierwszych częściach kursu uczeń ma zapoznając się z materiałami poczuć się z wiedzą komfortowo - w taki sposób że wie do czego ona jest i jak jej użyć. W następnych elementach kursu następuje jej uporządkowanie za pomocą "luźniejszych" aktywności np. grywalizacji. W ostatnich elementach kursu następuje jej utrwalanie a nastepnie zachęcenie ucznia do tego by wiedzę tę rozszerzał przez dodatkowe materiały.
 
+Materiały przedkładane uczniowi bazują na jego ESP. Nie będą to materiały podążające wedle ściśle okręślonej ścieżki np. jeśli wykażemy że uczeń najlepiej uczy się na podstawie filmów to będą to tylko filmy, ale będą to materiały różnorodne, gdzie właśnie filmy będą miały największe prawdopodobieństwo. Ich liczność będzie właśnie największa.
 
-* **Kursy** – kurs zakłada zdobycie konkretnej umiejętności w jego zakresie. Dla programistów oznacza to umiejętność pisania w języku HTML. W trakcie jednego kursu może być realizowanych wiele poniższych aktywności. Aktywności te będą realizowane w zależności od profilu ELP. Nie oznacza to oczywiście że przy wybraniu danego typu ścieżki ELP może być realizowany tylko 1 rodzaj aktywności. Zakładamy że kurs będzie kompleksowy I dla danego rodzaju ELP mogą być realizowane wiele aktywności w zakresie jednego kursu. Będziemy tylko rozróżniać je za pomocą ilości w danej ścieżce.
-Sama nazwa kursu ma tytułować się daną czynnością jaką dany uczestnik ma posiąść, natomiast dalsze aktywności cząstkowe mają określać jaki problem rozwiązujesz umiejąc daną technologię.
+Każdy następny materiał przedkładany studentowi wedle tej metodologii będzie podążał według ELP.
+## Przykład
+### Przykład 1 - nauka programowania w dowolnym języku
+1. Nauczenie ucznia czym jest programowanie i co może osiągnąć za jego pomocą (zainteresowanie problemem)
+2. Nauczenie ucznia podstawowych elementów składowych programowania czyli zmienne, instrukcje warunkowe, pętle, funkcje (wiedza właściwa)
+3. Zastosowanie luźniejszej aktywności w celu utrwalenia pozyskanych informacji (grywalizacja za pomocą gry np. pokerek, gdzie każdy ruch jest gratyfikowanym pytaniem z danej dziedziny np. co robi dany kod)
+4. Zastosowanie wiedzy w praktyce (rozwiązanie życiowego problemu) np. projekt wykonania aplikacji, programu, który rozwiązuje rzeczywisty problem z życia codziennego
+5. Zachęcenie ucznia do tego by wiedzę rozszerzał o dodatkowe materiały.Powstaja tutaj 2 możliwości: Albo rozszerzamy wiedzę w zakresie istniejących umiejętności(budowanie wiedzy wszerz), albo rozszerzamy wiedzę w zakresie dodatkowych umiejętności (programowanie obiektowe) (budowanie wiedzy w górę)
 
-
-# Kursy
-Wolne myśli
+## Wolne myśli
 * Poprzez kurs nalezy ludzi zainteresować danym tematem, by chcieli uczyć się dalej
+* Sztywno ułożona chronologia kursu - wiadomo co po czym następuje
 * Temat kursu ma być przedstawiony kompleksowo jak rozwiązać dany problem
 * Treści mają być generowane dynamicznie, by być sprofilowane pod ucznia.
-* Kursy mają składać się z różnorakich aktywności, by nie tylko angażować filmem, ale również podawać proste zadania kompetencyjne do rozwiązania.
+* Kursy mają składać się z różnorakich aktywności. Jeśli uczeń lepiej uczy się za pomocą treści pisanych to więcej w kursie będzie treści pisanych a mniej filmów.
 * Monitorowanie filmu tj. W jakim miejscu użytkownik się zatrzymał I co zrobił później
-* Kursy mają składać się z wielu różnych elementów jak pytania, wideo, odczyty itd
+
+## Uwaga
+Na samym początku kursu i na jego końcu trzeba wykonać podsumowanie co uczeń osiągnął po ukończeniu kursu.
+
+
+

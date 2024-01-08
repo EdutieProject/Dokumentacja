@@ -1,11 +1,16 @@
 # Lekcje
-* Wspomagają edukację szkolną i umożliwiają ich wykorzystaniedo samodzielnej nauki
-- Program nauczania oparty na drzewach. Nawigacja po drzewie będzie wspomagana sztuczną inteligencją
-Tu bedzie graf
-* Weryfikacja przyrostu wiedzy – do każdej lekcji przyporządkowywane są zadania.
+Lekcja jest elementem najmniejszym w całym "nieformalnym" drzwie. Zadaniem lekcji jest wspomaganie edukację szkolną i umożliwianie ich wykorzystania do samodzielnej nauki
+* Program nauczania oparty na drzewach. Nawigacja po drzewie będzie wspomagana sztuczną inteligencją.Zakłada, że jeśli znacz umiejętność X to możesz nauczyć się umiejętności Y.
+
+TODO: Tu bedzie graf
+
+* Weryfikacja przyrostu wiedzy – do każdej lekcji przyporządkowywane są zadania sprawdzające wiedzę.
 W zależności od tego czy uczeń dobrze rozwiązuje zadania sugeruje mu się odpowiednie materiały do nadrobienia wiedzy bądź przekierowanie do odpowiednich materiałów.
+
 * Integracja ze sztuczną inteligencją w celu generowania dodatkowych materiałów do nauki, w szczególności obrazów.
-* Zgodność lekcji z najlepszymi praktykami – podejście “amerykańskie”
+
+* Zgodność lekcji z najlepszymi praktykami – podejście “amerykańskie”, taksonomia blooma
+
 * Forma przekazanych treści zgodna z ESP
 
 # Lekcje

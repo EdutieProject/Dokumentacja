@@ -1,1 +1,4 @@
-* **Zadania** – oznacza 1 krótkie zadanie do wykonania głównie do pokazania utrwalenia umiejętności
+# Zadania
+Oznacza jedno krótkie zadanie zazwyczaj krótką odpowiedź na pytanie otwarte dotyczące danego segmentu kursu.
+
+Wynikiem zadania jest odpowiedź tekstowa na zadane pytanie
