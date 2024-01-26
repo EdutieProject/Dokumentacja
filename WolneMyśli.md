@@ -20,3 +20,6 @@ Drugim aspektem jest podejście “amerykańskie” do tworzenia kursów. Chodzi
 Przykład. Na pierwszej lekcji jazdy na koniu musisz nauczyć się bezpiecznie wsiadać na konia, siedzieć na nim I nim sterować. Na drugiej lekcji możesz przystępować do bardziej zaawansowanych działań, czyli kłus, gallop.
 
 
+Wraz z projektem Edutie z pierwszego konceptu powstały również pomysły na *pomocnicze* aplikacje:
+ - Kahoot live - apikacja wykrywająca słowa prezentatora na warsztatach, która dla uczestników na bieżąco generowałaby notatki i pytania.
+ - Helper dla korepetytorów - generowanie przykładowych materiałów dla korepetytora pasujących do profilu nauczania ucznia

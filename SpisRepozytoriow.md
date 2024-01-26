@@ -9,10 +9,10 @@
 ### nowanauka.pl
 
 Repozytorium zawierające zawartość [strony Nowej Nauki](https://nowanauka.pl).
-
+https://www.11ty.dev/
 Stack techniczny: 
- - Eleventy.js
- - SCSS
+ - Eleventy.js - [Dokumentacja](https://www.11ty.dev/).
+ - SCSS - [Dokumentacja](https://sass-lang.com/)
  - Komponenty *pożyczone* z CodeStitch
 
 ### edutie.nowanauka.pl
@@ -20,8 +20,8 @@ Stack techniczny:
 Repozytorium zawierające zawartość [strony Edutie](https://edutie.nowanauka.pl).
 
 Stack techniczny: 
- - Eleventy.js
- - SCSS
+ - Eleventy.js - [Dokumentacja](https://www.11ty.dev/).
+ - SCSS - [Dokumentacja](https://sass-lang.com/)
  - Komponenty *pożyczone* z TailSpark
 
 ### edutie-backend
@@ -58,3 +58,7 @@ Stack techniczny:
  - Python
    - Speech Recognition
    - PyAudio
+
+
+### Graf
+TODO:Graf pokazujący zależności repozytorium od siebie.

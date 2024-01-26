@@ -1,8 +1,6 @@
-W tym pliku poruszone są tematy dotyczące zastosowań psychologii w edukacji. Zagadnienia poruszane w tym pliku są sugestiami i opisem tego, co chcemy wykorzystywać w aplikacjach i innych środkach przekazu aby ulepszać naukę.
-
 # Psychologia Edukacji
 
-Aby ulepszać to jak się uczymy, konieczne jest zrozuumienie tego procesu. Proces zaś jest skomplikowany i wielu psychologów bezskutecznie próbowała go usystematyzyować.
+Aby ulepszać to jak się uczymy, konieczne jest zrozumienie tego procesu. Proces zaś jest skomplikowany i wielu psychologów bezskutecznie próbowała go usystematyzyować.
 
 Ten dokument poświęcony jest opisom teorii psychologicznych, które wykorzystujemy w naszych projektach. Do szczególnej specyfiki
 
