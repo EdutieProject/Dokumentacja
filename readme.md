@@ -1,10 +1,11 @@
 # Spis treści dokumentacji
 
 ## Założenia teoretyczne
- - [Nowa Nauka - Manifest](teoretyczne/NowaNaukaManifest.md)
- - [Psychologia w edukacji](teoretyczne/PsychologiaEdukacji.md)
- - [Co chcemy zmienić w edukacji?](teoretyczne/ZmianyEdukacji.md)
-### Aktywności na platformie
+ - [Nowa Nauka - Manifest](koncept/NowaNaukaManifest.md)
+ - [Psychologia w edukacji](koncept/PsychologiaEdukacji.md)
+ - [Co chcemy zmienić w edukacji?](koncept/ZmianyEdukacji.md)
+
+## Zagadnienia dotyczące platformy
  - [Grywalizacja](platforma/aktywnosci/grywalizacja.md)
  - [Korepetycje](platforma/aktywnosci/korepetycje.md) 
  - [Kursy](platforma/aktywnosci/kursy.md)
@@ -29,9 +30,8 @@ Zagadnienia opisane w tym repozytorium dotyczą ogólnie stosowanych rozwiązań
  - [Edutie](projekty/Edutie.md)
  - [EavesNote *(nazwa tymczasowa)*](projekty/EavesNote.md)
 
-Pomysły na nowe projekty są mile widziane! Aby zgłosić swój pomysł opowiedz o nim któremuś z twórców albo prześlij Github Issue lub Pull Request
-
 # Rozszerzanie dokumentacji
-Pomysły na nowe projekty chwilowo są wstrzymane, natomiast mile widziane. Jeśli chcesz zgłosić nowy pomysł załóż Pull Request.
+
+Pomysły na nowe projekty chwilowo są wstrzymane, natomiast mile widziane. Jeśli chcesz zgłosić nowy pomysł załóż GH Issue / Pull Request.
 
 Jeśli uważasz że nie ma tu czegoś co powinno się tu znaleźć, zgłoś to poprzez nowy GitHub issue. Tyczy się to zarówno wprowadzania nowych treści, rozszerzania już istniejących oraz aktualizowania przestarzałych informacji.
