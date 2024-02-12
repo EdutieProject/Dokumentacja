@@ -3,18 +3,18 @@
 ## Założenia teoretyczne
  - [Nowa Nauka - Manifest](teoretyczne/NowaNaukaManifest.md)
  - [Psychologia w edukacji](teoretyczne/PsychologiaEdukacji.md)
- - [Co chcemy zmienić w edukacji?](teoretyczne/Zmiany.md)
+ - [Co chcemy zmienić w edukacji?](teoretyczne/ZmianyEdukacji.md)
 ### Aktywności na platformie
- - [Grywalizacja](teoretyczne/aktywnosci/grywalizacja.md)
- - [Korepetycje](teoretyczne/aktywnosci/korepetycje.md) 
- - [Kursy](teoretyczne/aktywnosci/kursy.md)
- - [Lekcje](teoretyczne/aktywnosci/lekcje.md)
- - [Platforma Odpowiedzi](teoretyczne/aktywnosci/platformaodpowiedzi.md)
- - [Prezentacje](teoretyczne/aktywnosci/prezentacje.md)
- - [Testy Praktyczne](teoretyczne/aktywnosci/testypraktyczne.md)
- - [Testy Teoretyczne](teoretyczne/aktywnosci/testyteoretyczne.md)
- - [Warsztaty](teoretyczne/aktywnosci/warsztaty.md)
- - [Lekcje](teoretyczne/aktywnosci/zadania.md)
+ - [Grywalizacja](platforma/aktywnosci/grywalizacja.md)
+ - [Korepetycje](platforma/aktywnosci/korepetycje.md) 
+ - [Kursy](platforma/aktywnosci/kursy.md)
+ - [Lekcje](platforma/aktywnosci/lekcje.md)
+ - [Platforma Odpowiedzi](platforma/aktywnosci/platformaodpowiedzi.md)
+ - [Prezentacje](platforma/aktywnosci/prezentacje.md)
+ - [Testy Praktyczne](platforma/aktywnosci/testypraktyczne.md)
+ - [Testy Teoretyczne](platforma/aktywnosci/testyteoretyczne.md)
+ - [Warsztaty](platforma/aktywnosci/warsztaty.md)
+ - [Lekcje](platforma/aktywnosci/zadania.md)
 
 
 ## Zagadnienia techniczne
