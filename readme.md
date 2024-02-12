@@ -26,10 +26,9 @@
 
 Zagadnienia opisane w tym repozytorium dotyczą ogólnie stosowanych rozwiązań. Szczegóły techniczne projektów dostępne są w repozytoriach zawierających aplikacje.
 
-## Projekty i pomysły
+## Projekty
  - [Edutie](projekty/Edutie.md)
- - [EavesNote *(nazwa tymczasowa)*](projekty/EavesNote.md)
-
+ 
 # Rozszerzanie dokumentacji
 
 Pomysły na nowe projekty chwilowo są wstrzymane, natomiast mile widziane. Jeśli chcesz zgłosić nowy pomysł załóż GH Issue / Pull Request.
