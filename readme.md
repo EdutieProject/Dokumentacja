@@ -1,35 +1,14 @@
-# Spis treści dokumentacji
+# Dokumentacja
 
-## Założenia teoretyczne
- - [Nowa Nauka - Manifest](koncept/NowaNaukaManifest.md)
- - [Psychologia w edukacji](koncept/PsychologiaEdukacji.md)
- - [Co chcemy zmienić w edukacji?](koncept/ZmianyEdukacji.md)
+Główna dokumentacja Nowej Nauki - lektura którą powinien przerobić każdy, kto chce zrozumieć czym ona jest i dołączyć do działania na jej rzecz.
 
-## Zagadnienia dotyczące platformy
- - [Grywalizacja](platforma/aktywnosci/grywalizacja.md)
- - [Korepetycje](platforma/aktywnosci/korepetycje.md) 
- - [Kursy](platforma/aktywnosci/kursy.md)
- - [Lekcje](platforma/aktywnosci/lekcje.md)
- - [Platforma Odpowiedzi](platforma/aktywnosci/platformaodpowiedzi.md)
- - [Prezentacje](platforma/aktywnosci/prezentacje.md)
- - [Testy Praktyczne](platforma/aktywnosci/testypraktyczne.md)
- - [Testy Teoretyczne](platforma/aktywnosci/testyteoretyczne.md)
- - [Warsztaty](platforma/aktywnosci/warsztaty.md)
- - [Lekcje](platforma/aktywnosci/zadania.md)
+## Struktura dokumentacji:
+ - [Koncept](koncept/readme.md) - przedstawienie konceptu projektu
+ - [Projekt Edutie](projekty/edutie/Edutie.md) - główna aplikacja projektowa
+ - [Tech Minds](techminds/readme.md) - materiały używane w konkursie tech minds
+ - [Techniczne](techniczne/readme.md) - ogólnodostępne porady techniczne
 
-
-## Zagadnienia techniczne
- - [Spis repozytoriów](SpisRepozytoriow.md)
- - [Domain driven design w naszych projektach](techniczne/DomainDrivenHowTo.md)
- - [Onion architecture i jej stosowanie](techniczne/OnionArchitectureHowTo.md)
- - [Budowa profilu użytkownika](teoretyczne/uzytkownik/informacjeprofilowe.md)
-
-Zagadnienia opisane w tym repozytorium dotyczą ogólnie stosowanych rozwiązań. Szczegóły techniczne projektów dostępne są w repozytoriach zawierających aplikacje.
-
-## Projekty
- - [Edutie](projekty/Edutie.md)
- 
-# Rozszerzanie dokumentacji
+## Rozszerzanie dokumentacji
 
 Pomysły na nowe projekty chwilowo są wstrzymane, natomiast mile widziane. Jeśli chcesz zgłosić nowy pomysł załóż GH Issue / Pull Request.
 
