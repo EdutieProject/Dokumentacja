@@ -38,10 +38,6 @@ Dopełnianie tych obowiązków bez żadnych pomocy jest ciężkie. W szczególno
 
 > Zmianą jaką proponuje platforma NowaNauka jest całkowite odejście od klasycznego nauczania, ponieważ droga jaką przebywa uczeń podczas procesu nauczania jest sterowana za pomocą sztucznej inteligencji i to ona na podstawie badań procesów kognitywistycznych ucznia sama dobiera materiały jakie mogą zainteresować ucznia. Odchodzi tutaj problem kosztownych pomocy naukowych, współpracy z nauczycielem czy biurokratyzacji nauki
 
-### Metodyki nauczania
-
-TODO: Coś o Taksonomii Bluma
-
 ### Sposób prowadzenia lekcji
 
 Nie jest tajemnicą, że aktualny system edukacyjny jest przedłużeniem pruskiego systemu, którego zadaniem było szkolenie robotników mających pracować w fabrykach. Taki robotnik miał być w założeniu oddany, posłuszny oraz łatwy do zastąpienia. 
