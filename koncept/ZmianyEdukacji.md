@@ -14,8 +14,8 @@ Ponadto dochodzi do przypadków, w których na lekcjach Fizyki czy chemii nie s�
 
 Wówczas jeżeli egzaminy takie jak np. matura nie promują dobrych metod nauki, to książki do nich przygotowujące i inne pomoce naukowe analogicznie nie będą tego robić.
  
-> Pozytywną zmianą w edukacji z użyciem pomocy naukowych, byłoby stworzenie uczniom takich warunków, by oni sami zabiegali o użycie pomocy naukowych mających na celu zwizualizowanie im problemu i rozwiązanie go. \
-Szczególną uwagę należy poświęcić tutaj nowym technologiom jak telefony komórkowe.
+> Pozytywną zmianą w edukacji z użyciem pomocy naukowych, byłoby stworzenie uczniom takich warunków, by oni sami zabiegali o użycie pomocy naukowych mających na celu zwizualizowanie im problemu i zrozumieniu go. \
+Szczególną uwagę należy poświęcić tutaj nowym technologiom.
 
 ## Nauczyciele
 
@@ -32,7 +32,7 @@ Nie może być również zbyt trudny, ponieważ będzie to dla niego zbytnie wyz
 
 - **Ocena progresu ucznia i niesienie informacji zwrotnej** - zadaniem nauczyciela jest dawać uczniowi informacje zwrotną dotyczącą całego jego procesu z zaznaczeniem czego się nauczył, co już umie, i czego może jeszcze sę nauczyć posiadając już obecną wiedzę. Jest to podstawa, ponieważ wtedy uczeń wie co osiągnął i co jeszcze może osiągnąć co znacznie porządkuje informacje.
 
-- **Zbyt duża biurokratyzacja nauki** - w całym procesie nauczania najważniejszy powinien być uczeń a nie dokumentacja. Dlatego najlepszym rozwiązaniem jest jak największe ograniczenie zbędnej papierologii w procesie nauczania i zastąpienie jej po prostu nauczaniem.
+- **Biurokracja związana z nauką** - w całym procesie nauczania najważniejszy powinien być uczeń a nie dokumentacja. Dlatego najlepszym rozwiązaniem jest jak największe ograniczenie zbędnej papierologii w procesie nauczania i zastąpienie jej po prostu nauczaniem.
 
 Dopełnianie tych obowiązków bez żadnych pomocy jest ciężkie. W szczególności, gdy zadaniem nauczyciela jest przekazywanie wiedzy a nie dokumentowanie tego procesu. Nauczyciel może być najlepszy w swojej dziedzinie, ale irytować sięw sytuacji, gdy będzie musiał wypełniać dokumentację.
 
