@@ -92,7 +92,7 @@ Oczywiście takich wniosków można wysnuć jeszcze bardzo wiele.
 
 ## Rodzice
 
-Rolą rodzica w edukacji dziecka jest nadzór nad nim jako własnym dzieckiem oraz nadzór nad instytucjami edukcyjnymi prowadzacymi jego [dziecka] edukacje.
+Rolą rodzica w edukacji dziecka jest nadzór nad nim jako własnym dzieckiem oraz nadzór nad instytucjami edukacyjnymi prowadzacymi jego edukacje.
 
 #### Nadzór nad dzieckiem
 
