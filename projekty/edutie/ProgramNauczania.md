@@ -85,9 +85,13 @@ W Edutie chcemy poruszać nauki ścisłe, dlatego będziemy skupiać się głów
  - Optyka
  - Geometria
 
-Istotnym jest wprowadzenie podziału kursów z uwagi na ich przeznaczenie i/lub rodzaj autora. Pomimo założeń, że kurs powinien zawierać duży zakres materiału, uwzględniamy możliwość tworzenia ***małych kursów*** (niezagnieżdżonych) i przypuszczamy że znajdą one duże zastosowanie w przypadku tworzenia ich przez uczniów.
+Kursy będą charakteryzować się również ***tagami***. Powyższe przykłady kursów mogłyby mieć takie tagi:
+ - Oficjalne
+ - Matura podstawa
+ - Matura rozszerzona
+Poza tym, wraz z rozszerzeniem repertuaru kursów, zwiększałaby się ilość tagów. W niektórych przypadkach tagi przypisywane byłby automatycznie (np. tag *Community* charakteryzujący kurs społeczności, byłby przypisywany automatycznie), w przypadkach gdy kurs tworzony byłby przez Edukatora wyższego przywilejami będzie on mógł przypisać ręcznie niektóre tagi (np. *Matura podstawa*). Sczegóły związane z tagami są do doprecyzowania w przyszłości.
 
-Możemy również w związku z tym wprowadzić podział na kursy oficjalnie zatwierdzone i te niezweryfikowane. Możliwości tego typu podziałów jest dużo i należy je rozważyć w przyszłości.
+Pomimo założeń, że kurs powinien zawierać duży zakres materiału, uwzględniamy możliwość tworzenia ***małych kursów*** (niezagnieżdżonych) i przypuszczamy że znajdą one duże zastosowanie w przypadku tworzenia ich przez uczniów.
  
 **Lekcje** są drzewem segmentów. Jako element kursu są odpowiedzialne za nauczenie pojedynczego tematu z danego działu. Czas jaki uczeń miałby w założeniu poświęcać na jedną lekcję miałby wynosić **od pół do 1 godziny**. Przykłady lekcji:
  - Pierwsza zasada termodynamiki
