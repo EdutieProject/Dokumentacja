@@ -100,9 +100,11 @@ Pomimo założeń, że kurs powinien zawierać duży zakres materiału, uwzględ
 
 ### Segmenty lekcji
 
-**Segmenty** są elementarnymi częściami zagadnienia poruszanymi osobno. Tym samym jest to najbardziej atomiczna, niepodzielna część programu nauczania w Edutie. **Segmenty lekcji zawierają kontekst teoretyczny i zadanie (aktywność).** Zgodnie z założeniami [active learning](https://en.wikipedia.org/wiki/Active_learning), nauka powinna zachodzić poprzez aktywności - dlatego nauka w segmencie jest realizowana poprzez zapewnienie uczniowi aktywności do zrealizowania wraz z jej kontekstem teoretycznym.
+**Segmenty** są elementarnymi częściami zagadnienia poruszanymi osobno. Tym samym jest to najbardziej atomiczna, niepodzielna część programu nauczania w Edutie. **Segmenty lekcji zawierają kontekst teoretyczny i zadanie (aktywność).** Zgodnie z założeniami [active learning](https://en.wikipedia.org/wiki/Active_learning), nauka powinna zachodzić poprzez aktywności - dlatego nauka w segmencie jest realizowana poprzez zapewnienie uczniowi aktywności do zrealizowania wraz z jej kontekstem teoretycznym. Uczeń realizując segmenty z danej lekcji powinien przeanalizować zagadnienie rozpatrywane przez tą lekcję z różnych perspektyw i na różne sposoby - od pokazania tych sposobów są właśnie segmenty.
 
-Lekcje oferując dajmy na to 8 segmentów, oferują naukę danego tematu w ośmiu różnych wydaniach, odmieniają ten temat w ośmiu przypadkach. Segmenty mają przypisany do siebie **rodzaj aktywności** jaki go dotyczy. Rodzaje aktywności poruszone są w [edukacyjnym kontekście Edutie](Edukacja.md).
+Aktywności domyślnie realizowane są poprzez sprawozdanie. Ten sposób został wybrany, ponieważ wedle ideom nowej nauki kładzie on nacisk na sposób rozwiązania i dojścia do rozwiązania, a nie sam wynik. To, jak sprawozdanie powinno wyglądać będzie różnić się w zależności od rodzaju aktywności.
+
+Segmenty mają przypisany do siebie **rodzaj aktywności** jaki go dotyczy. Rodzaje aktywności poruszone są w [edukacyjnym kontekście Edutie](Edukacja.md).
 
 ## Personalizacja w programie nauczania
 
