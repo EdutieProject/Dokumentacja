@@ -5,13 +5,13 @@ W tym pliku opisana jest kwestia ucznia i śledzenia jego procesu nauczania w ap
 ## Profil nauczania
 
 **Profil ucznia** to domyślny profil każdego użytkownika platformy mający na celu zbieranie danych o użytkowniku w kontekście nauki. Jest to kluczowy element Edutie - na jego podstawie działa [personalizacja](Personalizacja.md). Warto przykuć do niego szczególną uwagę, ponieważ uczeń powinien być *w centrum zainteresowania* w kwestii edukacji. Jego elementami są:
- - Uczniowskie *CV*
+ - Uczniowskie protfolio
  - Historia nauki
  - Parametry psychologiczne
  - Parametry osobowościowe
 
-### Uczniowskie CV
-Pomimo poważnej nazwy chodzi tu głównie o cechy jakie osoba korzystająca z aplikacji ma w kontekście bycia uczniem. Wchodzi w to klasa w jakiej się on znajduje, rodzaj szkoły do jakiej uczęszcza, jego wiek. Możemy tu również wrzucić wszelkie konkursy czy aktywności pozaszkolne jakie uczeń ma *a'la CV*. Dobrze byłby to potraktować podobnie do profilu na np. LinkedIn. 
+### Uczniowskie portfolio
+Pomimo mało sugestywnej nazwy chodzi tu głównie o cechy jakie osoba korzystająca z aplikacji ma w kontekście bycia uczniem. Wchodzi w to klasa w jakiej się on znajduje, rodzaj szkoły do jakiej uczęszcza, jego wiek. Możemy tu również wrzucić wszelkie konkursy czy aktywności pozaszkolne jakie uczeń ma *a'la CV*. Dobrze byłby to potraktować podobnie do profilu na np. LinkedIn. 
 
 ### Historia nauczania
 Historia nauczania jest zbiorem wyników ze wszystkich aktywności naukowych jakie ukończył uczeń. Wyniki te będziemy nazywać *Rezultatami nauczania*.
@@ -24,6 +24,8 @@ Rezultat nauczania powinien być swego rodzaju raportem z aktywności jaką ucze
  - jaki dostał feedback (to też wynika z powyższego)
 
  ### Parametry psychologiczne
-***Do uzupełnienia***
+> *Do uzupełnienia*\
+*Notatki: byłyby wykorzystywane dla: Spersonalizowanego tłumaczenia teorii, personalizacji aktywności, personalizacji podpowiedzi. Byłyby dostosowywane za pomocą: rezultatów nauczania (?), błędów*
 ### Parametry osobowościowe
-***Do uzupełnienia***
+> *Do uzupełnienia*\
+*Notatki: the big 5 personality, testy na rodzaj chleba którym jesteś*
