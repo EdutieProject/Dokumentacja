@@ -51,3 +51,7 @@ Na tym schemacie przedstawione jest drzewo w którym:
 ✅ - to element zaliczony
 ❓ - to elementy odblokowane
 ❌ - to elementy aktualnie niedostępne 
+
+## Progres mierzony indywidualnie
+
+Ważne jest również odnotowywanie progresu ucznia jako takiego. Robimy to na podstawie rezultatów nauczania, które opisane są w [kwestiach ucznia](Uczen.md). Ustrukturyzowana historia nauczania tj. chronologicznie uporządkowane rezultaty pozwalają śledzić progres ucznia aby zapewnić mu feedback na temat jego postępów.
