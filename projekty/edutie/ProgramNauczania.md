@@ -102,9 +102,19 @@ Pomimo założeń, że kurs powinien zawierać duży zakres materiału, uwzględ
 
 **Segmenty** są elementarnymi częściami zagadnienia poruszanymi osobno. Tym samym jest to najbardziej atomiczna, niepodzielna część programu nauczania w Edutie. **Segmenty lekcji zawierają kontekst teoretyczny i zadanie (aktywność).** Zgodnie z założeniami [active learning](https://en.wikipedia.org/wiki/Active_learning), nauka powinna zachodzić poprzez aktywności - dlatego nauka w segmencie jest realizowana poprzez zapewnienie uczniowi aktywności do zrealizowania wraz z jej kontekstem teoretycznym. Uczeń realizując segmenty z danej lekcji powinien przeanalizować zagadnienie rozpatrywane przez tą lekcję z różnych perspektyw i na różne sposoby - od pokazania tych sposobów są właśnie segmenty.
 
+#### Aktywności
 Aktywności domyślnie realizowane są poprzez sprawozdanie. Ten sposób został wybrany, ponieważ wedle ideom nowej nauki kładzie on nacisk na sposób rozwiązania i dojścia do rozwiązania, a nie sam wynik. To, jak sprawozdanie powinno wyglądać będzie różnić się w zależności od rodzaju aktywności.
 
 Segmenty mają przypisany do siebie **rodzaj aktywności** jaki go dotyczy. Rodzaje aktywności poruszone są w [edukacyjnym kontekście Edutie](Edukacja.md).
+
+#### Podpowiedzi
+Segmenty zawierają podpowiedzi w formie fiszek. Podpowiedzi bazują na personalizacji - są dynamicznie generowane, i nie są *twardo* przypisane do segmentu.
+
+#### Wymagania nauczania
+Wymagania nauczania określają to, jaką wiedzę uczeń powinien wynieść z tego segmentu. Lepiej opisane jest to w [systemie progresu](SystemProgresu.md).
+
+#### Wymagana liczba aktywności
+System progresu nie przepuści ucznia do następnego segmentu, zanim nie zaliczy on na odpowiednią ocenę pewnej ilości aktywności z tego segmentu. Domyślnie tą liczbą jest 1. Personalizacja jednak może zwiększać tą liczbę kiedy zachodzą przypuszczenia, że uczeń ma z poruszanym zagadnieniem trudności. Dowiedz się więcej w [kontekście personalizacji](Personalizacja.md).
 
 ## Personalizacja w programie nauczania
 

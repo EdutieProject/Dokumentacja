@@ -3,11 +3,14 @@
 Ten plik opowiada o edukacyjnym kontekście Edutie, tj. o dobrych edukacyjnych praktykach i ich zastosowaniu w aplikacji.
 
 ### Spis treści: 
-1. [Uczeń w centrum edukacji](#uczeń-w-centrum-edukacji)
-2. [Higher-order thinking](#higher-order-thinking)
-3. [Rodzaje aktywności](#rodzaje-aktywności)
-4. [Edukacja oparta o nawigację](#edukacja-oparta-o-nawigację)
-5. [Nauka na błędach w edukacji](#nauka-na-błędach-w-edukacji)
+1. Teoria:
+   - [Uczeń w centrum edukacji](#uczeń-w-centrum-edukacji)
+   - [Higher-order thinking](#higher-order-thinking)
+   - [Edukacja oparta o nawigację](#edukacja-oparta-o-nawigację)
+   - [Nauka na błędach w edukacji](#nauka-na-błędach-w-edukacji)
+2. Zastosowania w aplikacji:
+   - [Rodzaje aktywności](#rodzaje-aktywności)
+   - [Wymagania nauczania](#wymagania-nauczania)
 
 ## Uczeń w centrum edukacji
 
@@ -22,23 +25,6 @@ Jest to ważne przy projektowaniu drzewiastych struktur nauczania, szczególnie 
 Higher-order thinking realizowane jest poprzez odpowiednie ***rodzaje aktywności***, które go wymagają. Stąd typowe będzie zastosowanie wykorzystujących go rodzai na końcu drzewek.
 
 [Higher-order thinking - dowiedz się więcej](https://www.weareteachers.com/higher-order-thinking/)
-
-## Rodzaje aktywności
-
-Aplikacja wykorzystuje podejście *active learningu*, tj. nauczanie oparte jest na aktywnościach ucznia. Aktywności te realizowane są w ramach segmentów lekcji ([zobacz w programie nauczania](ProgramNauczania.md)).
-
- 1. Project-based learning - [zobacz online](https://www.atlantis-press.com/proceedings/ictvt-17/25884523#:~:text=The%20seven%20steps%2C%20consisting%20of,presentation%20of%20the%20project%20report.) 
- 2. Inquiry-based learning - [zobacz online](https://sac.edu/AcademicAffairs/TracDat/Pages/Inquiry-Based-Learning-.aspx#:~:text=Inquiry%2Dbased%20learning%20is%20a,problem%2Dsolving%20and%20experiential%20learning.)
- 3. Case study - [zobacz online](https://www.mindtools.com/ar8cfge/case-study-based-learning)
- 4. Korekcja role-play - aktywność oparta na wykryciu błędu w rozumowaniu drugiej strony i przygotowania dla niego wytłumaczenia
- 5. Przygotowanie planu nauki - aktywność oparta spreparowaniu planu nauki danego tematu. Dobrze sprawdzi się jako powtórzenie na koniec segmentu.
- 6. Experimental learning - [zobacz online](https://www.bu.edu/ctl/ctl_resource/experiential-learning/#:~:text=Experiential%20learning%20is%20an%20engaged,by%20reflecting%20on%20the%20experience.)
- 7. Service learning - [zobacz online](https://helpfulprofessor.com/service-learning-examples/)
- 8. Performance-based learning - [zobacz online](https://helpfulprofessor.com/performance-based-learning-examples/)
- 9. Hypothesis testing - [zobacz online](https://latrobe.libguides.com/maths/hypothesis-testing)
- 10. Open-ended questioning - aktywność polegająca na postawieniu otwartego pytania i analizie go pod różnymi względami.
-
-> *Więcej rodzajów do uzupełnienia*
 
 ## Edukacja oparta o nawigację
 
@@ -57,10 +43,37 @@ Według nawigacjonizmu kluczowymi umiejętnościami są:
 
 Nawigacja w kontekście *nawigacjonizmu* dotyczy znajdywania istotnych informacji oraz ich przeszukiwania i analizy. Warto zwrócić również uwagę na nawigowanie w kontekście sieci połączeń nauczonej już wiedzy - czyli na  orientowaniu się w rozumianym już materiale.
 
-To co tu wyżej napisałem, jest skróconym tłumaczeniem [tej strony](http://etec512.weebly.com/navigationism.html#:~:text=Navigationism%20is%20another%20learning%20theory,constructivist%20principles%20in%20online%20learning.)
+Źródła: [Nawigacjonizm](http://etec512.weebly.com/navigationism.html#:~:text=Navigationism%20is%20another%20learning%20theory,constructivist%20principles%20in%20online%20learning.), zobacz też: [konektywizm](http://etec512.weebly.com/connectivism.html).
 
-Zobacz też: [konektywizm](http://etec512.weebly.com/connectivism.html).
+#### Nawigacja w skali makro
+
+Nawigacja w skali makro jest również istotna - możemy zdefiniować ją jako danie nawigowanie rozwojem ucznia w długim okresie czasu. Jest to kwestia nieco niezależna od edukacyjnego *nawigacjonizmu*, ale równie istotna. 
+
+Uczeń powinien być świadom nieograniczonych możliwości jakie ma. Nawigacjonizm w skali makro wnosi o *nawigowanie* uczniem w poszukiwaniu wiedzy, tym samym uświadamianie go jak wiele ścieżek może obrać i które z nich będą dla niego najlepsze.
 
 ## Nauka na błędach w edukacji
 
 > *Do uzupełnienia*
+
+
+## Rodzaje aktywności
+
+Aplikacja wykorzystuje podejście *active learningu*, tj. nauczanie oparte jest na aktywnościach ucznia. Aktywności te realizowane są w ramach segmentów lekcji ([zobacz w programie nauczania](ProgramNauczania.md)).
+
+ 1. Project-based learning - [zobacz online](https://www.atlantis-press.com/proceedings/ictvt-17/25884523#:~:text=The%20seven%20steps%2C%20consisting%20of,presentation%20of%20the%20project%20report.) 
+ 2. Inquiry-based learning - [zobacz online](https://sac.edu/AcademicAffairs/TracDat/Pages/Inquiry-Based-Learning-.aspx#:~:text=Inquiry%2Dbased%20learning%20is%20a,problem%2Dsolving%20and%20experiential%20learning.)
+ 3. Case study - [zobacz online](https://www.mindtools.com/ar8cfge/case-study-based-learning)
+ 4. Korekcja role-play - aktywność oparta na wykryciu błędu w rozumowaniu drugiej strony i przygotowania dla niego wytłumaczenia
+ 5. Przygotowanie planu nauki - aktywność oparta spreparowaniu planu nauki danego tematu. Dobrze sprawdzi się jako powtórzenie na koniec segmentu.
+ 6. Experimental learning - [zobacz online](https://www.bu.edu/ctl/ctl_resource/experiential-learning/#:~:text=Experiential%20learning%20is%20an%20engaged,by%20reflecting%20on%20the%20experience.)
+ 7. Service learning - [zobacz online](https://helpfulprofessor.com/service-learning-examples/)
+ 8. Performance-based learning - [zobacz online](https://helpfulprofessor.com/performance-based-learning-examples/)
+ 9. Hypothesis testing - [zobacz online](https://latrobe.libguides.com/maths/hypothesis-testing)
+ 10. Open-ended questioning - aktywność polegająca na postawieniu otwartego pytania i analizie go pod różnymi względami.
+
+> *Więcej rodzajów do uzupełnienia*
+
+## Wymagania nauczania
+Pomimo większej wagi samego procesu uczenia się niż wyników, nauka musi mieć sprecyzowane wymagania. Na wymaganiach bazuje system progresu ([zobacz system progresu](SystemProgresu.md)).
+
+Wymagania inspirowane są wymaganiami maturalnymi, które to są sumiennie wymieniane w każdym kluczu odpowiedzi do matur, ale również pomijane przez większość uczniów. 
