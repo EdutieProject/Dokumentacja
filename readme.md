@@ -5,7 +5,7 @@ Główna dokumentacja Nowej Nauki - lektura którą powinien przerobić każdy, 
 ## Struktura dokumentacji:
  - [Koncept](koncept/readme.md) - przedstawienie konceptu projektu
  - [Projekt Edutie](projekty/edutie/Edutie.md) - główna aplikacja projektowa
- - [Tech Minds](techminds/readme.md) - materiały używane w konkursie tech minds
+ - [Tech Minds](techminds/readme.md) - archiwalne materiały dotyczące konkursu tech minds
  - [Development](development/readme.md) - ogólnodostępne porady dla developerów
 
 ## Rozszerzanie dokumentacji
