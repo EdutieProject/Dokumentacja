@@ -6,7 +6,7 @@ Główna dokumentacja Nowej Nauki - lektura którą powinien przerobić każdy, 
  - [Koncept](koncept/readme.md) - przedstawienie konceptu projektu
  - [Projekt Edutie](projekty/edutie/Edutie.md) - główna aplikacja projektowa
  - [Tech Minds](techminds/readme.md) - materiały używane w konkursie tech minds
- - [Techniczne](techniczne/readme.md) - ogólnodostępne porady techniczne
+ - [Development](development/readme.md) - ogólnodostępne porady dla developerów
 
 ## Rozszerzanie dokumentacji
 

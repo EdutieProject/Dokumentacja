@@ -11,6 +11,7 @@ Ten plik opowiada o edukacyjnym kontekście Edutie, tj. o dobrych edukacyjnych p
 2. Zastosowania w aplikacji:
    - [Rodzaje aktywności](#rodzaje-aktywności)
    - [Wymagania nauczania](#wymagania-nauczania)
+   - [Społeczność edukatorów](#edukatorzy)
 
 ## Uczeń w centrum edukacji
 
@@ -77,3 +78,24 @@ Aplikacja wykorzystuje podejście *active learningu*, tj. nauczanie oparte jest 
 Pomimo większej wagi samego procesu uczenia się niż wyników, nauka musi mieć sprecyzowane wymagania. Na wymaganiach bazuje system progresu ([zobacz system progresu](SystemProgresu.md)).
 
 Wymagania inspirowane są wymaganiami maturalnymi, które to są sumiennie wymieniane w każdym kluczu odpowiedzi do matur, ale również pomijane przez większość uczniów. 
+
+> *Do uzupełnienia*\
+*Notatki: graf wikipediowy*
+
+## Edukatorzy
+
+Aplikacja edutie przewiduje dwa główne typy użytkowników końcowych: 
+ - Użytkownika uczącego się
+ - Użytkownika chcącego uczyć innych
+
+Warto zwrócić uwagę, że jedno nie wyklucza drugiego - możliwe, a nawet wskazane jest uczenie się w aplikacji, będąc również tym uczącym innych.
+
+#### Kim jest edukator?
+Edukator jest specjalnym użytkownikiem aplikacji, któremu przyznano dostęp przez administratora i tym samym nadano *przywileje* do tworzenia materiałów do nauki (kursów) i ustalania związanych z nimi szczegółów, takich jak chociażby wymagania nauczania.
+
+Edukatorzy tworzą społeczność. Tworząc kurs, mogą oni dawać dostępy do ich modyfikacji innym edukatorom i tworzyć je kolaborując.
+
+Istnieje wiele *rang* edukatorów. Na ten moment wyróżniamy takie rangi:
+ - Pedagog : najwyższy rangą edukator. Może tworzyć kursy które są oficjalnie zatwierdzone i przyporządkowywać im oficjalne tagi (np. tagi maturalne).
+ - Nauczyciel : ranga nie tylko dla nauczycieli, bo również dla uczniów i contributorów, którzy dostali *a'la* awans i mogą dzięki temu zarządzać tagami dla kursów, które tworzą lub współtworzą. Nie mają jednak dostępu do tagów oficjalnych.
+ - Contributor : podstawowy poziom edukatorów, stworzony głównie dla uczniów którzy chcą współtworzyć ekosystem kursów. Ich kursy mają dostęp tylko do tagu społeczności.

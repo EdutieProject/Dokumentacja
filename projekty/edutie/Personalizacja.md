@@ -7,7 +7,7 @@ W Edutie rozpatrujemy takie sposoby personalizacji:
    - Personalizacja kontekstu teoretycznego
    - Personalizacja aktywności
    - Personalizacja podpowiedzi
- - Nawigacja wśród segmentów
+ - [Nawigacja wśród segmentów](#nawigacja---segmenty)
 
 ## Personalizacja w segmentach
 Segment jest najbardziej elementarnym ogniwem programu nauczania w aplikacji. Można się dowiedzieć czym on jest w [opisie programu nauczania](ProgramNauczania.md). Tutaj będziemy bazować na wiedzy stamtąd.
@@ -32,3 +32,16 @@ Notatki: liczba wymaganych aktywności, dynamiczne generowanie aktywności, uży
 
 > *Do uzupełnienia*\
 Notatki: dynamiczne generowanie, użycie strategii
+
+## Nawigacja - segmenty
+Kolejnym sposobem personalizacji nauki jest nawigowanie, konkretnie wśród drzewa segmentu. Polega ono na wskazywaniu która ścieżka (który segment) jest najlepszym wyborem jako następnie wybrany. 
+
+#### Poziom trudności - jak go określamy?
+Kluczowym w nawigacji jest określenie poziomu trudności - robimy to dynamicznie bazując na profilu ucznia, w szczególności na historii naucznia. Więcej o profilu ucznia dowiesz się w [kontekście ucznia](Uczen.md).
+
+Kategorie nawigacji:
+ - Wyzwanie : z odblokowanych niezaliczonych elementów wybierz najtrudniejszy
+ - Nowość : z odblokowanych niezaliczonych elementów wybierz najłatwiejszy
+ - Powtórka : z zaliczonych elementów wybierz, ten którego uczeń najbardziej mógł zapomnieć (?)
+
+> *Precyzyjne określenie działania sposobów nawigacji do uzupełnienia*

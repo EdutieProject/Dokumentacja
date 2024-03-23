@@ -116,6 +116,9 @@ Wymagania nauczania określają to, jaką wiedzę uczeń powinien wynieść z te
 #### Wymagana liczba aktywności
 System progresu nie przepuści ucznia do następnego segmentu, zanim nie zaliczy on na odpowiednią ocenę pewnej ilości aktywności z tego segmentu. Domyślnie tą liczbą jest 1. Personalizacja jednak może zwiększać tą liczbę kiedy zachodzą przypuszczenia, że uczeń ma z poruszanym zagadnieniem trudności. Dowiedz się więcej w [kontekście personalizacji](Personalizacja.md).
 
+#### Feedback
+Niezbędnym elementem nauki jest feedback. Po każdej aktywności następuje spersonalizowany feedback odwołujący się bezpośrednio do oddanego sprawozdania i oceny (zobacz ocenianie w [systemie progresu](SystemProgresu.md)).
+
 ## Personalizacja w programie nauczania
 
 Drzewiasty program nauczania umożliwia tworzenie ścieżek, które nazywamy w Edutie **nawigacją**.
